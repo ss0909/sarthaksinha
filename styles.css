@@ -1,0 +1,90 @@
+/* Reset some default styles */
+body, ul {
+    margin: 0;
+    padding: 0;
+}
+
+/* Basic styling for the header and navigation */
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}
+
+/* Styling for the hero section */
+.carbon {
+    background-image: url('background-image.jpg'); /* Add your background image here */
+    background-size: cover;
+    text-align: center;
+    padding: 5rem 0;
+    color:#391d1d;
+    
+}
+
+#hero {
+    
+    padding-left: 10px;
+}
+
+/* Styling for the projects section (customize as needed) */
+.projects {
+    text-align: left;
+    padding: 3rem 0;
+}
+
+#projects h2 {
+    font-size: 2rem;
+    padding-left: 10px;
+}
+
+/* Styling for the footer */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+.center{
+height: 200px;
+width: 275px;
+    display: block;
+    margin-left: 120px;
+
+    
+}
+
+#dtls{
+   background-color: pink;
+   padding-left: 20px;
+   padding-left: 10px;
+}
+
+p{
+    padding-left: 10px;
+}
+
+.container{
+    padding-left: 10px;
+}
+.chodu{
+margin-top: -200px;
+    margin-left: 700px;
+    margin-right: -160px;
+}
