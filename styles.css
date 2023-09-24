@@ -49,7 +49,7 @@ nav a {
 }
 
 #projects h2 {
-    font-size: 2rem;
+    
     padding-left: 10px;
 }
 
@@ -87,4 +87,9 @@ p{
 margin-top: -200px;
     margin-left: 700px;
     margin-right: -160px;
+}
+
+.move{
+    color: rgb(188, 60, 60);
+    
 }
